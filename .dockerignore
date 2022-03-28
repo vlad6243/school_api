@@ -1,0 +1,13 @@
+/dist
+/node_modules
+*.log
+.idea
+.vscode
+.git
+.eslintrc.js
+.prettierrc
+.gitignore
+Dockerfile*
+README.md
+kubernetes.yml
+docker-compose.yml
